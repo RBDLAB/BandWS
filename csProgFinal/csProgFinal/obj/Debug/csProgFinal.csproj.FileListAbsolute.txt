@@ -1,0 +1,9 @@
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.exe.config
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.exe
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.pdb
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.csprojResolveAssemblyReference.cache
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.Properties.Resources.resources
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.csproj.GenerateResource.Cache
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.exe
+c:\users\adi\documents\visual studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.BWS.resources

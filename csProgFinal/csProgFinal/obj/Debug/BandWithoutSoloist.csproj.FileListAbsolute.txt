@@ -1,0 +1,9 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Debug\csProgFinal.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\BandWithoutSoloist.csprojResolveAssemblyReference.cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.Properties.Resources.resources
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\BandWithoutSoloist.csproj.GenerateResource.Cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\csProgFinal.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Debug\BandWithoutSoloist.BWS.resources

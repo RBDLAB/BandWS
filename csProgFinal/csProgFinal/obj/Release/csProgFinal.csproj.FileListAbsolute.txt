@@ -1,0 +1,9 @@
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Release\csProgFinal.exe.config
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Release\csProgFinal.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Release\csProgFinal.pdb
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\bin\Release\Bass.Net.dll
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Release\csProgFinal.BWS.resources
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Release\csProgFinal.Properties.Resources.resources
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Release\csProgFinal.csproj.GenerateResource.Cache
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Release\csProgFinal.exe
+C:\Users\Adi\Documents\Visual Studio 2015\Projects\csProgFinal\csProgFinal\obj\Release\csProgFinal.pdb

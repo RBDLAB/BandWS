@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ttsProg.vcxproj, WindowsVoice.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(48): warning C4273: 'SapiVoice::setGender': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(27): note: see previous definition of 'setGender'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(58): warning C4273: 'SapiVoice::setNowPause': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(26): note: see previous definition of 'setNowPause'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(64): warning C4273: 'SapiVoice::pauseSpeak': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(29): note: see previous definition of 'pauseSpeak'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(70): warning C4273: 'SapiVoice::getNowPause': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(28): note: see previous definition of 'getNowPause'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(76): warning C4273: 'SapiVoice::setText': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(24): note: see previous definition of 'setText'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(224): warning C4273: 'SapiVoice::initSpeech': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(22): note: see previous definition of 'initSpeech'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(230): warning C4273: 'SapiVoice::changeRate': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(23): note: see previous definition of 'changeRate'
+c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(237): warning C4273: 'SapiVoice::startSpeak': inconsistent dll linkage
+  c:\users\adi\documents\visual studio 2015\projects\ttsprog\ttsprog\main.cpp(25): note: see previous definition of 'startSpeak'
+  ttsProg.vcxproj -> C:\Users\Adi\Documents\Visual Studio 2015\Projects\ttsProg\Debug\SapiVoice.dll
+  ttsProg.vcxproj -> C:\Users\Adi\Documents\Visual Studio 2015\Projects\ttsProg\Debug\SapiVoice.pdb (Full PDB)
